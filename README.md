@@ -38,7 +38,7 @@ https://github.com/Ophelials/Src_cat/blob/main/images/yolov8_architecture.jpg
 
 Можно заметить что модель с высокой точностью верно предсказывает нахождение номеров железнодорожных вагонов.
 
-!⁠[yolo_results2]​(https://github.com/Ophelials/Src_cat/blob/main/images/results.jpg)
+!⁠[yolo_results2]​(images%2results.jpg)
 
 После обучения модели детектирования по полученным из модели данным номера на фотографиях обрезаются с помощью инструментов библиотеки OpenCV и подаются в модель OCR.
 
