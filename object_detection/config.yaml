@@ -1,0 +1,6 @@
+path: /data/datasets/ds.video/yakovlev/ufo/ufo_train_numbers/yolo/dataset/with_part
+train: train
+val: val
+test: test
+names: 
+  0: 'number'
