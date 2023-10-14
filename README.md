@@ -3,7 +3,7 @@
 
 Наша команда представляет алгоритм, предназначенный для обнаружения и распознавания номеров железнодорожных вагонов для автоматической фиксации проезда вагонов по динамическим весам.
 
-!⁠[dinamic weight]​(https://github.com/Ophelials/Src_cat/blob/1088118b5335106791c9cf74f4f2237ab602bb21/images/results.png)
+!⁠[dinamic weight]​(https://raw.githubusercontent.com/Ophelials/Src_cat/main/images/dinamic_weight.jpg?token=GHSAT0AAAAAACIEWOVLJUFALIFNSFNJVM7AZJLDCTA)
 Данный алгоритм позволит максимально автоматизировать и оптимизировать процесс динамического взвешивания.
 
 ### Используемый стек: 
