@@ -43,3 +43,7 @@
 После обучения модели детектирования по полученным из модели данным номера на фотографиях обрезаются с помощью инструментов библиотеки OpenCV и подаются в модель OCR.
 
 ## Optical Character Recognition
+
+![Alt img](/images/epoch_loss.png)​
+
+![Alt img](/images/epoch_plot_recognized.png)​
