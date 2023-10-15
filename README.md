@@ -46,4 +46,4 @@
 
 ![Alt img](/images/epoch_loss.png)​
 
-![Alt img](/images/epoch_plot_recognized.png)​
+![Alt img](/images/epoch_plates_recognized.png)​
